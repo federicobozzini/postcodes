@@ -1,5 +1,5 @@
 # postcodes
-A sample application to explore UK postcodes
+A sample application to explore UK postcodes.
 
 ##Setup
 
@@ -19,4 +19,6 @@ A sample application to explore UK postcodes
 
     gulp serve
 
-And the program can be accessed at http://localhost:3000
+And the program can be accessed at http://localhost:3000.
+
+Alternatively you can visit the [online demo](https://iit-federico-bozzini.github.io/postcodes/#/CR0%200ZW)
