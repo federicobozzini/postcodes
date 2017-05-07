@@ -10,7 +10,7 @@ export function config ($logProvider, toastrConfig, RestangularProvider) {
   toastrConfig.preventDuplicates = true;
   toastrConfig.progressBar = true;
 
-  RestangularProvider.setBaseUrl('http://api.postcodes.io');
+  RestangularProvider.setBaseUrl('https://api.postcodes.io');
   RestangularProvider.setResponseExtractor(function (data) {
     return data.result;
   });
