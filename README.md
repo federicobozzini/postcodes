@@ -21,4 +21,4 @@ A sample application to explore UK postcodes.
 
 And the program can be accessed at http://localhost:3000.
 
-Alternatively you can visit the [online demo](https://iit-federico-bozzini.github.io/postcodes/#/CR0%200ZW)
+Alternatively you can visit the [online demo](https://federicobozzini.github.io/postcodes/#/CR0%200ZW)
